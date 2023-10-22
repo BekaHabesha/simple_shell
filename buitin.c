@@ -1,8 +1,8 @@
-#include "main.h"
+#include "shell.h"
 
 /**
-*   my_exit - simple impl of exit.
-*   @ptrs: structure containing all malloced memory
+* my_exit - simple impl of exit.
+* @ptrs: structure containing all malloced memory
 */
 void my_exit(shell_t *ptrs)
 {
