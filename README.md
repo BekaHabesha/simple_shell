@@ -1,52 +1,65 @@
-Team project by Thiobista Gedefaw and Bereket Dereje Mekonen
+# 0x16. C - Simple Shell project 
 
-0. Betty would be proud
-Write a beautiful code that passes the Betty checks
+done by 
+  "Bereket Dereje and Thiobista Gedefaw"
 
-1. Simple shell 0.1
-Write a UNIX command line interpreter.
+Title: " 0x16. C - Simple Shell."
+GitHub_Repository: " simple_shell "
 
-2. Simple shell 0.2
-Simple shell 0.1 +
 
-3. Simple shell 0.3
-Simple shell 0.2 +
 
-4. Simple shell 0.4
-Simple shell 0.3 +
 
-5. Simple shell 1.0
-Simple shell 0.4 +
+0x16. C - Simple Shell. Tasks
 
-6. Simple shell 0.1.1
-Simple shell 0.1 +
 
-7. Simple shell 0.2.1
-Simple shell 0.2 +
+# 0. Betty would be proud
+      - Write a beautiful code that passes the Betty checks.
 
-8. Simple shell 0.4.1
-Simple shell 0.4 +
+# 1. Simple shell 0.1
+      - Write a UNIX command line interpreter.
 
-9. setenv, unsetenv
-Simple shell 1.0 +
+# 2. Simple shell 0.2
+      - Simple shell 0.1 +
 
-10. cd
-Simple shell 1.0 +
+# 3. Simple shell 0.3
+      - Simple shell 0.2 +
 
-11. ;
-Simple shell 1.0 +
+# 4. Simple shell 0.4
+      - Simple shell 0.3 +
 
-12. && and ||
-Simple shell 1.0 +
+# 5. Simple shell 1.0
+       - Simple shell 0.4 +
 
-13. alias
-Simple shell 1.0 +
+# 6. Simple shell 0.1.1
+       - Simple shell 0.1 +
 
-14. Variables
-Simple shell 1.0 +
+# 7. Simple shell 0.2.1
+       - Simple shell 0.2 +
 
-15. Comments
-Simple shell 1.0 +
+# 8. Simple shell 0.4.1
+       - Simple shell 0.4 +
 
-16. File as input
-Simple shell 1.0 +
+# 9. setenv, unsetenv
+       - Simple shell 1.0 +
+
+# 10. cd
+       - Simple shell 1.0 +
+
+# 11. ;
+       - Simple shell 1.0 +
+
+# 12. && and ||
+       - Simple shell 1.0 +
+
+# 13. alias
+       - Simple shell 1.0 +
+       - Usage: alias [name[='value'] ...]
+
+# 14. Variables
+       - Simple shell 1.0 +
+
+# 15. Comments
+       - Simple shell 1.0 +
+
+# 16. File as input
+       - Simple shell 1.0 +
